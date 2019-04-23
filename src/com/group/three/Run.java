@@ -6,4 +6,9 @@ public class Run {
 		new Main();
 	}
 
+	public static class Main {
+		public Main () {
+			System.out.println("Hello, Group3!");
+		}
+	}
 }
